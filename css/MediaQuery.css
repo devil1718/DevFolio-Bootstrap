@@ -1,0 +1,103 @@
+@media only screen and (min-width: 1472px) and (max-width: 1540px) {
+  .card-position {
+    top: 53%;
+    left: 39%;
+  }
+}
+@media only screen and (min-width: 1296px) and (max-width: 1472px) {
+  .portfolio .card {
+    width: 23rem;
+  }
+  /* ######################################################## */
+  .blog .card {
+    width: 23rem;
+  }
+  .card-position {
+    top: 46%;
+    left: 39%;
+  }
+}
+@media only screen and (min-width: 1182px) and (max-width: 1295px) {
+  .portfolio .card {
+    width: 21rem;
+  }
+  /* ######################################################## */
+  .blog .card {
+    width: 21rem;
+  }
+  .card-position {
+    top: 44%;
+    left: 39%;
+  }
+}
+
+@media only screen and (min-width: 1000px) and (max-width: 1181px) {
+  .portfolio .card {
+    width: 18rem;
+  }
+  /* ################################################################ */
+  .blog .card {
+    width: 18rem;
+  }
+  .card-position {
+    top: 36%;
+    left: 35%;
+  }
+}
+@media only screen and (min-width: 897px) and (max-width: 999px) {
+  .portfolio .card {
+    width: 16rem;
+  }
+
+  /* ################################################################ */
+  .blog .card {
+    width: 16rem;
+  }
+  .card-position {
+    top: 31%;
+    left: 35%;
+  }
+}
+@media only screen and (min-width: 758px) and (max-width: 897px) {
+  .portfolio .card {
+    width: 14rem;
+  }
+
+  /* ############################################################## */
+  .blog .card {
+    width: 14rem;
+  }
+  .card-position {
+    top: 28%;
+    left: 30%;
+  }
+}
+
+@media only screen and (min-width: 501px) and (max-width: 757px) {
+  .portfolio .card {
+    width: 100%;
+    margin: auto;
+  }
+
+  .blog .card {
+    width: 100%;
+    margin: auto;
+  }
+}
+@media only screen and (min-width: 650px) and (max-width: 757px) {
+  .card-position {
+    top: 66%;
+    left: 43%;
+  }
+}
+@media only screen and (min-width: 520px) and (max-width: 649px) {
+  .card-position {
+    top: 56%;
+    left: 45%;
+  }
+}
+@media only screen and (min-width: 520px) and (max-width: 740px) {
+  #Home h1 {
+    text-align: center;
+  }
+}
